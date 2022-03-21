@@ -1,15 +1,15 @@
-"# lockers-lockedme" 
-Specification document - Product’s capabilities, appearance, and user interactions
+"# lockers-lockedme"
+Specification document - Product’s capabilities, appearance, and user interactions -->6
 
-Number and duration of sprints required 
+Number and duration of sprints required
 
-Setting up Git and GitHub account to store and track your enhancements of the prototype 
+Setting up Git and GitHub account to store and track your enhancements of the prototype
 
-Java concepts being used in the project 
+Java concepts being used in the project
 
-Data Structures where sorting and searching techniques are used. 
+Data Structures where sorting and searching techniques are used.
 
-Generic features and three operations: 
+Generic features and three operations:
 
 Retrieving the file names in an ascending order
 
@@ -25,34 +25,31 @@ Navigation option to close the current execution context and return to the main 
 
 Option to close the application
 
- 
-
-The goal of the company is to deliver a high-end quality product as early as possible. 
- 
+The goal of the company is to deliver a high-end quality product as early as possible.
 
 The flow and features of the application:
 
 Plan more than two sprints to complete the application
 
-Document the flow of the application and prepare a flow chart 
+Document the flow of the application and prepare a flow chart
 
 List the core concepts and algorithms being used to complete this application
 
 Code to display the welcome screen. It should display:
 
-Application name and the developer details 
+Application name and the developer details
 
-The details of the user interface such as options displaying the user interaction information 
+The details of the user interface such as options displaying the user interaction information
 
-Features to accept the user input to select one of the options listed 
+Features to accept the user input to select one of the options listed
 
 The first option should return the current file names in ascending order. The root directory can be either empty or contain few files or folders in it
 
- The second option should return the details of the user interface such as options displaying the following:
+The second option should return the details of the user interface such as options displaying the following:
 
 Add a file to the existing directory list
 
-You can ignore the case sensitivity of the file names 
+You can ignore the case sensitivity of the file names
 
 Delete a user specified file from the existing directory list
 
@@ -72,50 +69,44 @@ Option to navigate back to the main context
 
 There should be a third option to close the application
 
-Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance 
-
-
- 
+Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance
 
 You must use the following:
 
-Eclipse/IntelliJ: An IDE to code for the application 
+Eclipse/IntelliJ: An IDE to code for the application
 
-Java: A programming language to develop the prototype 
+Java: A programming language to develop the prototype
 
-Git: To connect and push files from the local system to GitHub 
+Git: To connect and push files from the local system to GitHub
 
-GitHub: To store the application code and track its versions 
+GitHub: To store the application code and track its versions
 
-Scrum: An efficient agile framework to deliver the product incrementally 
+Scrum: An efficient agile framework to deliver the product incrementally
 
-Search and Sort techniques: Data structures used for the project 
+Search and Sort techniques: Data structures used for the project
 
-Specification document: Any open-source document or Google Docs 
-
-
- 
+Specification document: Any open-source document or Google Docs
 
 Following requirements should be met:
 
 The source code should be pushed to your GitHub repository. You need to document the steps and write the algorithms in it.
 
-The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository. You can add a section in your document. 
+The submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository. You can add a section in your document.
 
-Document the step-by-step process starting from sprint planning to the product release. 
+Document the step-by-step process starting from sprint planning to the product release.
 
 Application should not close, exit, or throw an exception if the user specifies an invalid input.
 
-You need to submit the final specification document which includes: 
+You need to submit the final specification document which includes:
 
-Project and developer details 
+Project and developer details
 
-Sprints planned and the tasks achieved in them 
+Sprints planned and the tasks achieved in them
 
-Algorithms and flowcharts of the application 
+Algorithms and flowcharts of the application
 
-Core concepts used in the project 
+Core concepts used in the project
 
-Links to the GitHub repository to verify the project completion 
+Links to the GitHub repository to verify the project completion
 
 Your conclusion on enhancing the application and defining the USPs (Unique Selling Points)
