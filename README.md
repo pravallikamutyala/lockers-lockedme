@@ -1,7 +1,7 @@
 "# lockers-lockedme" 
 Specification document - Product’s capabilities, appearance, and user interactions
 
-Number and duration of sprints required 
+Number and duration of sprints required : 3
 
 Setting up Git and GitHub account to store and track your enhancements of the prototype 
 
