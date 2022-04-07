@@ -24,7 +24,7 @@ public class ListFiles {
 			// recursion for sub-directories
 			RecursivePrint(arr[index].listFiles(), 0, level + 1);
 		}
-
+		
 		// recursion for main directory
 		RecursivePrint(arr, ++index, level);
 	}
