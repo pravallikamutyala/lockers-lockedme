@@ -1,0 +1,79 @@
+            WELCOME TO LOCKERS PVT. LTD.            
+****************************************************
+---------------PROJECT:LOCKED ME--------------------
+****************************************************
+--------------DEVELOPER: PRAVALLIKA-----------------
+--------------MAIN MENU-----------------
+Enter User Option
+1-LIST FILES 2-BUSINESS OPTIONS 3-EXIT  
+1
+1---LIST DIRECTORY
+**************************************
+Files from main directory : locker
+***************************************
+[aws]
+	algorithm.docx
+	demo.txt
+	email.php
+	flow-chart.pptx
+	phase2.txt
+[kalp]
+	demo.txt
+	sprintplan.xlsx
+[sasi]
+	phase2.txt
+	readme_en.txt
+[semo]
+	demo.txt
+	phase2.txt
+***********************************
+--------------MAIN MENU-----------------
+Enter User Option
+1-LIST FILES 2-BUSINESS OPTIONS 3-EXIT  
+2
+Enter Business Option
+ 1---ADD 2---DELETE 3---SEARCH 4---MAIN MENU  
+--------------USER MENU-----------------
+1
+1---ADD FILE
+Please enter the UserName(foldername to add file):
+sanju
+Please give source path to upload file
+
+F:\aws\main.txt
+Folder 'sanju'is created successfully
+main.txt created successfully in sanju folder
+***********************************
+--------------MAIN MENU-----------------
+Enter User Option
+1-LIST FILES 2-BUSINESS OPTIONS 3-EXIT  
+2
+Enter Business Option
+ 1---ADD 2---DELETE 3---SEARCH 4---MAIN MENU  
+--------------USER MENU-----------------
+3
+SEARCH FILE
+Please enter the FileName:
+main.txt
+File Found @ : F:\lockers-lockedme\LockedMe\locker\sanju\main.txt
+***********************************
+--------------MAIN MENU-----------------
+Enter User Option
+1-LIST FILES 2-BUSINESS OPTIONS 3-EXIT  
+2
+Enter Business Option
+ 1---ADD 2---DELETE 3---SEARCH 4---MAIN MENU  
+--------------USER MENU-----------------
+2
+DELETE FILE
+Please enter the UserName[Folder name from whre you want to delete]:
+semo
+Please enter the FileName:
+demo.txt
+demo.txt deleted successfully
+***********************************
+--------------MAIN MENU-----------------
+Enter User Option
+1-LIST FILES 2-BUSINESS OPTIONS 3-EXIT  
+3
+EXITED
