@@ -65,7 +65,7 @@ public class WelcomePage {
 					System.out.println("Please give source path to upload file");
 					String src = sc.next();
 					File sourceLocation = new File(src);
-					bOptions.copyFiles(sourceLocation,userNameAdd);
+					bOptions.AddFiles(sourceLocation,userNameAdd);
 					break;
 				case 2:
 					System.out.println("DELETE FILE");

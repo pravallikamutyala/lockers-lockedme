@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class BusinessOptions {
 
-	public void copyFiles(File sourceLocation, String userName) throws IOException {
+	public void addFiles(File sourceLocation, String userName) throws IOException {
 		String path = "locker//";
 		File targetLocation = new File("locker//" + userName);
 		if(sourceLocation.isFile()) {
