@@ -1,0 +1,482 @@
+from rishavkumarray123@gmail.com  to All Participants:
+good evening mam
+from vansajgupta75 to All Participants:
+plzz guide uss about where and how to upload a project
+from kulkarnijyotsna11 to All Participants:
+i import FileWriter also
+from naeemcp@gmail.com to All Participants:
+mam please check community 
+from kulkarnijyotsna11 to All Participants:
+why community link is not creating thread
+from neeta25@gmail.com to All Participants:
+Hi Nisha. how r u. I have a doubt. Files anyways dont allow duplication even with change of case. then whats  the point matching names case wise during search...pls comment
+from ishaangautam1998 to All Participants:
+ma'am the files in the project should be .txt only right?
+from ishaangautam1998 to All Participants:
+Okay Ma'am
+from raviagniwanshi@gmail.com to All Participants:
+community link not working
+from vikasak to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+**************************************************
+************Welcome TO LockMe.com**************
+**************Designed By :- Jyotsna Kulkarni *********************
+1) Display all the files
+2) Add a new file
+3) Delete a file
+4) Search a file
+5) Exit
+> Select an option...
+
+from kulkarnijyotsna11 to All Participants:
+it shows output like this
+from vansajgupta75 to All Participants:
+mam to get certificate we have to submit our project in ourr  project assesment dashboard 
+from kulkarnijyotsna11 to All Participants:
+What is the name of your file
+abc
+java.io.FileNotFoundException: C:\ project1\abc (The system cannot find the path specified)
+    at java.base/java.io.FileOutputStream.open0(Native Method)
+    at java.base/java.io.FileOutputStream.open(FileOutputStream.java:293)
+    at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+    at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:184)
+    at java.base/java.io.FileWriter.<init>(FileWriter.java:96)
+    at com.company.LockMe.createFile(LockMe.java:220)
+    at com.company.LockMe.main(LockMe.java:54)
+from ishaangautam1998 to All Participants:
+Ma'am the user should be allowed to only add empty files or files with any content?....if with content then should we just take string inputs?
+from anishjain0503 to All Participants:
+Okay. The project should be made as some application? or Normal code which runs on command prompt?
+from ishaangautam1998 to All Participants:
+Okay ma'am ...so we are only concerned with file names
+from vansajgupta75 to All Attendees:
+ mam only in  LMS or any where else
+from anishjain0503 to All Participants:
+Okay. 
+from ssomani28@gmail.com to All Participants:
+GE
+from vishwabujji156 to All Participants:
+if anyone completes project can you please guide me
+from koterushi@gmail.com  to All Participants:
+mam do we need to password protect the folder ?
+from ashugahlot664@gmail.com to All Participants:
+can we create our whats app group?
+from vansajgupta75 to All Attendees:
+yaa plzzz
+from heeramohan4083@gmail.com to All Participants:
+Mam,Same doubt what neeta asked, in the case of adding a file also ,system should not allow same file name in lowercase and uppercase right?
+from rishavkumarray123@gmail.com  to All Participants:
+i have submitted the project
+from nikhilindurkar to All Participants:
+Hi, springboot covers in which phase?
+from vansajgupta75 to All Participants:
+rishav we have to submit our project only in  LMS or any where else
+from neeta25@gmail.com to All Participants:
+hey how do we make it an application...i mean is any specific conversion or anything
+from rishavkumarray123@gmail.com  to All Participants:
+in LMS
+from neeta25@gmail.com to All Participants:
+ya..okay..thank u
+from nikhilindurkar to All Participants:
+Hi, springboot covers in which phase? pls tell me
+from nikhilindurkar to All Participants:
+ok. thank you
+from Nisha Waikar to All Participants:
+Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
+Version: 2021-09 (4.21.0)
+Build id: 20210910-1417
+from meganathanramesh@gmail.com to All Participants:
+Eclipse IDE for Java Developers (includes Incubating components)
+Version: 2021-12 (4.22.0)
+Build id: 20211202-1639
+from ashugahlot664@gmail.com to All Participants:
+Eclipse IDE for Java Developers (includes Incubating components)
+Version: 2021-12 (4.22.0)
+Build id: 20211202-1639
+from meganathanramesh@gmail.com to All Participants:
+can we use this mam?
+from meganathanramesh@gmail.com to All Participants:
+okay
+from hemanthcnhalli@gmail.com to All Participants:
+mam let me know once again where to check
+from Nisha Waikar to All Participants:
+https://www.techlearn.live/blog/step-by-step-guide-to-install-mysql/#:~:text=%20Step-by-step%20Guide%20to%20Install%20MySQL%20%201,that%20the%20MySQL%20installer%20Community%20is...%20More%20
+from nikhilindurkar to All Participants:
+https://dev.mysql.com/downloads/mysql/
+from nikhilindurkar to All Participants:
+can we get it from here?
+from nikhilindurkar to All Participants:
+yes.
+from nikhilindurkar to All Participants:
+https://tomcat.apache.org/download-80.cgi
+from Nisha Waikar to All Participants:
+https://tomcat.apache.org/download-80.cgi&#8.5.78
+from Nisha Waikar to All Participants:
+https://drive.google.com/drive/folders/1GrWZYbIatD8PBvcbnLH5ItIJioQ_jQTs?usp=sharing
+from kulkarnijyotsna11 to All Participants:
+server base applications are web based applications right mam?
+from vikasak to All Participants:
+yes 
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from vikasak to All Participants:
+yes
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from chelseaindru to All Participants:
+ How does server know this request is coming from this particular user ?
+from hemanthcnhalli@gmail.com to All Participants:
+dynamic respomse in the sence?
+from kulkarnijyotsna11 to All Participants:
+ok mam
+from ishaangautam1998 to All Participants:
+through source IP
+from chelseaindru to All Participants:
+okay mam
+from hemanthcnhalli@gmail.com to All Participants:
+sry mam . plz explIN ONCE AGAIN 
+from hemanthcnhalli@gmail.com to All Participants:
+INTERNET ERROR MAM HONESTLY
+from hemanthcnhalli@gmail.com to All Participants:
+YES
+from hemanthcnhalli@gmail.com to All Participants:
+YES
+from hemanthcnhalli@gmail.com to All Participants:
+YES MAM TQ
+from vikasak to All Participants:
+yes maam
+from jannath.hussain4@gmail.com to All Participants:
+yes
+from chelseaindru to All Participants:
+yes maam
+from ashugahlot664@gmail.com to All Participants:
+no query
+from kulkarnijyotsna11 to All Participants:
+mam server means what? gmail is the website
+from kulkarnijyotsna11 to All Participants:
+so website is a server  mam?
+from kulkarnijyotsna11 to All Participants:
+means a computer
+from kulkarnijyotsna11 to All Participants:
+ok
+from ashugahlot664@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from jannath.hussain4@gmail.com to All Participants:
+Crystal Clear
+from meganathanramesh@gmail.com to All Participants:
+both server and database is Jsp and servelets right?
+from anishjain0503 to All Participants:
+Server is a computer system somewhere? or software?
+from chelseaindru to All Participants:
+will the servelets and jsp have sql queries to fetch the dta from database ?
+from meganathanramesh@gmail.com to All Participants:
+okay mam
+from ishaangautam1998 to All Participants:
+Ma'am what kind of DBs we can use with Java?
+from kulkarnijyotsna11 to All Participants:
+what is difference between client pages and server pages
+from kulkarnijyotsna11 to All Participants:
+no 
+from kulkarnijyotsna11 to All Participants:
+means login page is srver side page
+from kulkarnijyotsna11 to All Participants:
+yes ok mam now I got the ponit
+from kulkarnijyotsna11 to All Participants:
+ok mam
+from kulkarnijyotsna11 to All Participants:
+no
+from meganathanramesh@gmail.com to All Participants:
+mama  i extracted tomcat which one i have to install
+from meganathanramesh@gmail.com to All Participants:
+*mam
+from kulkarnijyotsna11 to All Participants:
+where to extract mam?
+from meganathanramesh@gmail.com to All Participants:
+we need to place any where mam
+from kulkarnijyotsna11 to All Participants:
+is necessary on c drive only
+from vikasak to All Participants:
+yes
+from meganathanramesh@gmail.com to All Participants:
+sure mam
+from mouni.devi1496@gmail.com to All Participants:
+Yes
+from heeramohan4083@gmail.com to All Participants:
+yes
+from vishwabujji156 to All Participants:
+yes
+from vikasak to All Participants:
+yes maam
+from kulkarnijyotsna11 to All Participants:
+yes
+from vikasak to All Participants:
+got it
+from kulkarnijyotsna11 to All Participants:
+yes
+from ashugahlot664@gmail.com to All Participants:
+yes
+from vishwabujji156 to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+no
+from vikasak to All Participants:
+so jvm is not used at all?
+from vikasak to All Participants:
+ok
+from kulkarnijyotsna11 to All Participants:
+so all web application we needs internet
+from kulkarnijyotsna11 to All Participants:
+in the industry which server is used
+from ashugahlot664@gmail.com to All Participants:
+apche jason
+from akshaye988 to All Participants:
+aws
+from kulkarnijyotsna11 to All Participants:
+so how the client run sofwares
+from kulkarnijyotsna11 to All Participants:
+they needs the server installed on their pc
+from vansajgupta75 to All Participants:
+mam what is Node.js
+from ashugahlot664@gmail.com to All Participants:
+no
+from kulkarnijyotsna11 to All Participants:
+yes mam
+from kulkarnijyotsna11 to All Participants:
+no
+from anishjain0503 to All Participants:
+Yes
+from ashugahlot664@gmail.com to All Participants:
+node js is a back end scripting langauge may be !!
+from kulkarnijyotsna11 to All Participants:
+yes mam
+from vansajgupta75 to All Participants:
+we will be learning node.js??
+from vansajgupta75 to All Participants:
+ok
+from naeemcp@gmail.com to All Participants:
+break;
+from raviagniwanshi@gmail.com to All Participants:
+haha
+from vansajgupta75 to All Participants:
+yes mam
+from kulkarnijyotsna11 to All Participants:
+yes mam
+from ssomani28@gmail.com to All Participants:
+thats what vansaj.. don't ask irrelevant thing..
+from chelseaindru to All Participants:
+yeah 
+from ssomani28@gmail.com to All Participants:
+ok
+from kulkarnijyotsna11 to All Participants:
+ok
+from rahulpersie66@gmail.com  to All Participants:
+can anyone tell which tomcat server to download and other things that ma'am mentioned to download at starting of the course
+from rahulpersie66@gmail.com  to All Participants:
+please aid  me with this
+from madhi5597 to All Participants:
+https://tomcat.apache.org/download-80.cgi&#8.5.78
+from rahulpersie66@gmail.com  to All Participants:
+thanks alot madhi5597 ..
+from madhi5597 to All Participants:
+welcome
+from rahulpersie66@gmail.com  to All Participants:
+this is the only thing that need to install na??
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from nikhilindurkar to All Participants:
+yes
+from chelseaindru to All Participants:
+yess
+from jannath.hussain4@gmail.com to All Participants:
+y
+from chelseaindru to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from ashugahlot664@gmail.com to All Participants:
+yes
+from vikasak to All Participants:
+yes
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from ssp.02022022@gmail.com to All Participants:
+yes
+from anishjain0503 to All Participants:
+Api's are packages?
+from kulkarnijyotsna11 to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes mam
+from chelseaindru to All Participants:
+ServeletRequest is an interface ?
+from chelseaindru to All Participants:
+then how can we create object 
+from chelseaindru to All Participants:
+ohh okay 
+from chelseaindru to All Participants:
+understood
+from ssomani28@gmail.com to All Participants:
+so interface creates the object?
+from chelseaindru to All Participants:
+no the class wich implement the interface can be instantiated
+from ssomani28@gmail.com to All Participants:
+ok
+from meganathanramesh@gmail.com to All Participants:
+Wat is mean by protocol independent
+from meganathanramesh@gmail.com to All Participants:
+okay 
+from meganathanramesh@gmail.com to All Participants:
+where to find the project exploree
+from meganathanramesh@gmail.com to All Participants:
+okay mam
+from kulkarnijyotsna11 to All Participants:
+no mam
+from neeta25@gmail.com to All Participants:
+on new runtime window also one check box create new local server...we need it ?
+from kulkarnijyotsna11 to All Participants:
+can you please repeat the step
+from kulkarnijyotsna11 to All Participants:
+yes
+from chelseaindru to All Participants:
+yes
+from meganathanramesh@gmail.com to All Participants:
+unable to find the project explorer
+from meganathanramesh@gmail.com to All Participants:
+yes mam
+from meganathanramesh@gmail.com to All Participants:
+okay mam
+from chelseaindru to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+no
+from raviagniwanshi@gmail.com to All Participants:
+mam i am getting dynamic
+from mouni.devi1496@gmail.com to All Participants:
+When you create new workspace, you will see all project types.. if you are asking about that
+from anishjain0503 to All Participants:
+No. Have install other version. Web project not available
+from raviagniwanshi@gmail.com to All Participants:
+i thing i have to updated eclipce
+from mouni.devi1496@gmail.com to All Participants:
+Else from file-> new, you can see project types
+from meganathanramesh@gmail.com to All Participants:
+found mam
+from raviagniwanshi@gmail.com to All Participants:
+okaymam
+from ashugahlot664@gmail.com to All Participants:
+yes mam
+from vikasak to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+y
+from kulkarnijyotsna11 to All Participants:
+yes
+from ashugahlot664@gmail.com to All Participants:
+yes
+from ashugahlot664@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+it is not showing finish
+from ashugahlot664@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+how you change java version
+from chelseaindru to All Participants:
+so we dont have to use extend keyword ?
+from vikasak to All Participants:
+yes
+from ssomani28@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+mam where should we find that package path
+from kulkarnijyotsna11 to All Participants:
+which we have to write reverse
+from raviagniwanshi@gmail.com to All Participants:
+mam what is seriealverso
+from kulkarnijyotsna11 to All Participants:
+ok so it will be as per choice
+from kulkarnijyotsna11 to All Participants:
+whatever name I can assign to it
+from kulkarnijyotsna11 to All Participants:
+ok mam
+from kulkarnijyotsna11 to All Participants:
+service is main class mam
+from kulkarnijyotsna11 to All Participants:
+sorry method
+from kulkarnijyotsna11 to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+ok mam .. 
+from akjavadevoloper to All Participants:
+serialVersionUID is it variable?
+from raviagniwanshi@gmail.com to All Participants:
+mam take your time
+from chelseaindru to All Participants:
+what values will be passed for request and response parameters ?
+from kulkarnijyotsna11 to All Participants:
+mam but what you do for restarting server 
+from kulkarnijyotsna11 to All Participants:
+i did not get it
+from meganathanramesh@gmail.com to All Participants:
+what is 1L mam
+from pasupulabhargavi1997@gmail.com to All Participants:
+explain web.xml mam?
+from ishaangautam1998 to All Participants:
+ma'am please explain what happened 
+from raviagniwanshi@gmail.com to All Participants:
+mamit service method we have to create BL ? 
+from raviagniwanshi@gmail.com to All Participants:
+no
+from mouni.devi1496@gmail.com to All Participants:
+yes
+from kulkarnijyotsna11 to All Participants:
+yes
+from raviagniwanshi@gmail.com to All Participants:
+done mam
+from meganathanramesh@gmail.com to All Participants:
+mam i dont have jee which one i have to install
+from mouni.devi1496@gmail.com to All Participants:
+index
+from heeramohan4083@gmail.com to All Participants:
+index
+from raviagniwanshi@gmail.com to All Participants:
+but why
+from nikhilindurkar to All Participants:
+so, in other cases of multiple servlets, do we need to register all the servlet with respect to their servlet class?
+from raviagniwanshi@gmail.com to All Participants:
+you saind na should be match
+from pasupulabhargavi1997@gmail.com to All Participants:
+is there any way to get path of servlet class
+from kulkarnijyotsna11 to All Participants:
+xml will create auotomatically right?
+from kulkarnijyotsna11 to All Participants:
+so what shoul we do? checked it or not?
+from raviagniwanshi@gmail.com to All Participants:
+yes mam
+from chelseaindru to All Participants:
+what values will be passed for request and response parameters ?
+from chelseaindru to All Participants:
+like ip address?
+from chelseaindru to All Participants:
+okay
+from akjavadevoloper to All Participants:
+serialVersionuid is it variable?
+from akjavadevoloper to All Participants:
+line number14
+from chelseaindru to All Participants:
+please share the code mam
+from akjavadevoloper to All Participants:
+1l
+from akjavadevoloper to All Participants:
+ok mam
